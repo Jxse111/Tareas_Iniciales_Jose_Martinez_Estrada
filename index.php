@@ -6,6 +6,6 @@
     <title>Índice</title>
 </head>
 <body>
-    <h1>Bienvenido</h1>
+    <?php  echo phpinfo(); ?>
 </body>
 </html>
